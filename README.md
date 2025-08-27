@@ -19,7 +19,7 @@ The environment replicates an enterprise network with Active Directory, workstat
 - **Attacker Machine** (Kali Linux – adversary simulation)  
 
 📊 **Lab Topology**  
-![Lab Topology](diagrams/nework_topology.png)  
+![Lab Topology](diagrams/network_topology.png)  
 
 ---
 
