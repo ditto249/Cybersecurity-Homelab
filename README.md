@@ -68,15 +68,6 @@ Some examples of where I had to troubleshoot during the lab:
 - **IDS performance drops** – tuned Security Onion and filtered noisy alerts  
 - **Domain join errors** – resolved via DNS/AD configuration changes  
 
----
-
-## 🚀 Next Steps
-
-I plan to extend this homelab by:  
-- Writing custom Sigma detection rules  
-- Automating log forwarding with Windows Event Forwarding (WEF)  
-- Expanding with malware sandboxing  
-- Running purple team simulations with attack frameworks  
 
 ---
 
