@@ -52,11 +52,11 @@ The environment replicates an enterprise network with Active Directory, workstat
 
 ## 📚 Learning Notes
 
-I created my own study notes to reinforce understanding:  
-- [Active Directory Setup & Concepts](notes/active-directory.md)  
-- [SIEM & Log Analysis with Wazuh](notes/siem-wazuh.md)  
-- [Detection Engineering with Sigma](notes/detection-engineering.md)  
-- [Troubleshooting & Fixes](notes/troubleshooting.md)  
+There was 4 sections to the course, so I made notes on each one:
+- [Section 1: Build an Enterprise Network](notes/enterprise_network.md)  
+- [Section 2: Create a Vulnerable Environment & Detections](notes/vulnerable_environment_and_detection.md)  
+- [Section 3: Cyber Attack - Initial Access to Breached](notes/cyber_attack.md)  
+- [Section 4: Catch the Attacker](notes/catch_the_attacker.md)  
 
 ---
 
@@ -66,7 +66,7 @@ Some examples of where I had to troubleshoot during the lab:
 - **Networking issues** – fixed NAT issues 
 - **IDS performance drops** – tuned Security Onion and filtered noisy alerts  
 - **Domain join errors** – resolved via DNS/AD configuration changes  
-
+- **Locked accounts issue** - Enabled the account in the domain controller to gain access
 
 ---
 
