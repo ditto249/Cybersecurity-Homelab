@@ -54,7 +54,7 @@ The environment replicates an enterprise network with Active Directory, workstat
 
 There was 4 sections to the course, so I made notes on each one:
 - [Section 1: Build an Enterprise Network](notes/enterprise_network.md)  
-- [Section 2: Create a Vulnerable Environment & Detections](notes/vulnerable_environment_and_detection.md)  
+- [Section 2: Create a Vulnerable Environment & Detections](notes/vulnerable_environment_and_detections.md)  
 - [Section 3: Cyber Attack - Initial Access to Breached](notes/cyber_attack.md)  
 - [Section 4: Catch the Attacker](notes/catch_the_attacker.md)  
 
