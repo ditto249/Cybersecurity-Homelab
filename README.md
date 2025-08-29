@@ -63,8 +63,7 @@ I created my own study notes to reinforce understanding:
 ## ⚡ Challenges & Troubleshooting
 
 Some examples of where I had to troubleshoot during the lab:  
-- **Networking issues** – fixed NAT and DHCP scope conflicts  
-- **Logs not ingesting** – corrected Sysmon config for Splunk/Wazuh pipelines  
+- **Networking issues** – fixed NAT issues 
 - **IDS performance drops** – tuned Security Onion and filtered noisy alerts  
 - **Domain join errors** – resolved via DNS/AD configuration changes  
 
