@@ -13,7 +13,7 @@ The environment replicates an enterprise network with Active Directory, workstat
 
 **Core components:**  
 - **Domain Controller** (Windows Server 2025 – AD, DNS, DHCP, SSO)  
-- **Corporate Server** (Ubuntu Server – email & applications)  
+- **Corporate Server** (Ubuntu Server – email & applications) Used a Docker container to run Mialhog as our SMTP server.
 - **Windows & Linux Clients** (employee workstations)  
 - **Security Servers** (Security Onion, Ubuntu Desktop for monitoring)  
 - **Attacker Machine** (Kali Linux – adversary simulation)  
