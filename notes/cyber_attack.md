@@ -4,7 +4,7 @@
 ## The Attack Architecture
 <img width="1077" height="736" alt="image" src="https://github.com/user-attachments/assets/b4d1b284-f98e-407c-8740-1bebe9d4c2d9" />
 
-## The Scenario
+### The Scenario
 In this lab, we are going to “simulate” each step by leveraging techniques and tool at our disposal. 
 
 By leveraging default, insecure and outdated configurations and software, our attacker wants to use their skills for their own personal gain. These configurations, although outdated and disabled by default, can still often be found in business networks to this day.
