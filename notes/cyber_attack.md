@@ -1,3 +1,5 @@
+<img width="1325" height="400" alt="image" src="https://github.com/user-attachments/assets/18ec6d3f-8b2a-41ee-a06a-67b7d59e3ca8" />
+
 ### Reconnaissance
 
 Gather information.
