@@ -60,9 +60,9 @@ MailHog: A lightweight email testing tool that acts as a fake SMTP server. It ca
 
 ## Security Server with Wazuh
 A dedicated security server for ensuring performance, security and scalability to monitor and analyse the stack. 
-**Performance Isolation**: Running resource-intensive tools on a dedicated server prevents performance degradation caused by competing workloads on shared resources. Each application demands significant CPU, RAM, and disk I/O to function efficiently
-**Enhanced Security**: Security tools process sensitive data, including logs and vulnerability scans. A dedicated server minimizes the attack surface by isolating these critical processes from unrelated systems.
-**Centralized Management**: A dedicated server simplifies monitoring and management, providing a single point for handling logs, alerts, and vulnerability data, which improves efficiency and reduces administrative overhead. We will be using a few closed and open-source security tools to monitor, detect, and prevent our simulated “attacks”.
+- **Performance Isolation**: Running resource-intensive tools on a dedicated server prevents performance degradation caused by competing workloads on shared resources. Each application demands significant CPU, RAM, and disk I/O to function efficiently
+- **Enhanced Security**: Security tools process sensitive data, including logs and vulnerability scans. A dedicated server minimizes the attack surface by isolating these critical processes from unrelated systems.
+- **Centralized Management**: A dedicated server simplifies monitoring and management, providing a single point for handling logs, alerts, and vulnerability data, which improves efficiency and reduces administrative overhead. We will be using a few closed and open-source security tools to monitor, detect, and prevent our simulated “attacks”.
 
 ## Wazuh 
 Wazuh is an open source platform that gives both extended detection responses (XDR) and System Information Event Management (SIEM) to protectr cloud, container and server workloads.
