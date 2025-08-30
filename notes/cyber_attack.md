@@ -1,7 +1,7 @@
 ## Cyber Attack: Initial Access - Breached
 
 <img width="1325" height="400" alt="image" src="https://github.com/user-attachments/assets/18ec6d3f-8b2a-41ee-a06a-67b7d59e3ca8" />
-## The Attack Architecture
+### The Attack Architecture
 <img width="1077" height="736" alt="image" src="https://github.com/user-attachments/assets/b4d1b284-f98e-407c-8740-1bebe9d4c2d9" />
 
 ### The Scenario
